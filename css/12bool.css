@@ -13,6 +13,38 @@
     display: flex;
 }
 
+.space-around {
+    justify-content: space-around;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-start {
+    justify-content: flex-start;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.align-start {
+    align-self: flex-start;
+}
+
+.align-center {
+    align-self: center;
+}
+
+.align-end {
+    align-self: flex-end;
+}
+
 /* utilities */
 
 .col-1 {

@@ -1,8 +1,8 @@
 .debug {
     width: 100%;
     height: 80px;
-    background-color: blue;
-    border: 2px solid pink;
+    background-color: #006cfa;
+    border: 2px solid white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,8 +21,8 @@
 .nested {
     width: 100%;
     height: 100%;
-    background-color: limegreen;
-    border: 1px solid blue;
+    background-color: #00e165;
+    border: 1px solid #006cfa;
     color: white;
     display: flex;
     justify-content: center;
